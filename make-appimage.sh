@@ -14,9 +14,10 @@ export DEPLOY_OPENGL=1
 
 # Deploy dependencies
 quick-sharun \
-	/usr/bin/luanti    \
-	/usr/bin/minetest  \
-	/usr/lib/libldap.so*
+	/usr/bin/luanti      \
+	/usr/bin/minetest    \
+	/usr/lib/libldap.so* \
+	/usr/lib/liblber.so*
 
 # Additional changes can be done in between here
 

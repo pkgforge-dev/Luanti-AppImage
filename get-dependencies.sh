@@ -6,7 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm luanti sdl2
+pacman -Syu --noconfirm luanti sdl2 libldap
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"

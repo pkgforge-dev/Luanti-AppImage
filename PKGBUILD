@@ -14,7 +14,7 @@ source=(${pkgname}-${pkgver}.tar.gz::https://github.com/minetest/minetest/archiv
         luanti.service
         sysusers.d
         tmpfiles.d)
-sha256sums=('fe0b10df866f57c0047d84a4c6f6cd848650f52d9b0cab563fbbedc81632d616'
+sha256sums=('1fdfa8b973968f8fcf5a264ce3fb3a170c3882105f953498a64d6415eff83471'
             'f2614e89c620daccd641b8b047302e73509b78b510631757cf7fa0a332b8f7e7'
             '294283b0686c4d73d816168544ab2f813a7a0ca63fc49da59563a329dd329eed'
             'c9a0c78a49461f56381e5615045d036cd594b741c910129eccf43e475c40cca1')

@@ -2,7 +2,7 @@
 # Contributor: Konsta Kokkinen <kray@tsundere.fi>
 
 pkgname=('luanti' 'luanti-server' 'luanti-common')
-pkgver=5.15.2
+pkgver=5.16.1
 pkgrel=1
 arch=('x86_64')
 url='https://www.luanti.org/'
@@ -14,7 +14,7 @@ source=(${pkgname}-${pkgver}.tar.gz::https://github.com/minetest/minetest/archiv
         luanti.service
         sysusers.d
         tmpfiles.d)
-sha256sums=('1fdfa8b973968f8fcf5a264ce3fb3a170c3882105f953498a64d6415eff83471'
+sha256sums=('57926752365a17d3bf64945ea04dc63cc446a8863037b043b97799af30126b6b'
             'f2614e89c620daccd641b8b047302e73509b78b510631757cf7fa0a332b8f7e7'
             '294283b0686c4d73d816168544ab2f813a7a0ca63fc49da59563a329dd329eed'
             'c9a0c78a49461f56381e5615045d036cd594b741c910129eccf43e475c40cca1')
